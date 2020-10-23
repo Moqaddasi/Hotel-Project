@@ -34,8 +34,8 @@
 #about-page .info-right{
     margin-bottom: 30px;
 }
-#testimonials .testimonials{
-    margin-bottom: 30px;
+#testimonials .testimonials {
+    height: 200px;
 }
 .l-heading{
     text-align: center;
