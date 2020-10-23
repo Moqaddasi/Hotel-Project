@@ -9,7 +9,9 @@
     padding: 5px;
     border-bottom:#444 dotted 1px;
 }
-
+#showcase{
+    padding: -30px;
+}
 #home-info .info-img{
     display: none;
 }
