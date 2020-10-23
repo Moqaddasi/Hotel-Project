@@ -1,0 +1,40 @@
+#navbar .logo{
+    float: none;
+    text-align: center;
+}
+#navbar ul ,#navbar ul li {
+    float: none;
+}
+#navbar ul ,#navbar ul li a{
+    padding: 5px;
+    border-bottom:#444 dotted 1px;
+}
+
+#home-info .info-img{
+    display: none;
+}
+#home-info .info-content{
+    float: none;
+    width: 100%;
+}
+#home-info .info-content a{
+    margin: -20px;
+}
+.box{
+    float: none;
+    width: 100%;
+}
+#about-page .info-right,
+#about-page .info-left{
+    float: none;
+    width: 100%;
+}
+#about-page .info-right{
+    margin-bottom: 30px;
+}
+#testimonials .testimonials{
+    margin-bottom: 30px;
+}
+.l-heading{
+    text-align: center;
+}

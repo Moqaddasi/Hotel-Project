@@ -82,6 +82,10 @@
  #navbar a{
      color: #ffffff;
  }
+ #navbar .logo{
+    float: left;
+    padding-top:20px ;
+}
  #navbar h1{
      float: left;
      padding-top: 20px;
